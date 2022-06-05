@@ -1,5 +1,5 @@
 {
-  "name": "teknomavi/tcmb",
+  "name": "roonersdev/tcmb",
   "type": "library",
   "description": "T.C. Merkez Bankası üzerinden güncel döviz kurlarını çeker",
   "minimum-stability": "dev",
@@ -10,7 +10,7 @@
     "kur",
     "currency"
   ],
-  "homepage": "https://github.com/teknomavi/tcmb",
+  "homepage": "https://github.com/roonersdev/tcmb",
   "authors": [
     {
       "name": "Teknomavi",
